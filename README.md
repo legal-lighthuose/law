@@ -24,5 +24,6 @@
 
 ## 项目架构图
 
-![屏幕截图 2024-10-09 193146](https://github.com/user-attachments/assets/53b9dfd0-1f62-413c-8bea-003e40232f72)
+![Uploading 屏幕截图 2024-12-24 165454.png…]()
+
 
